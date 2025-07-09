@@ -11,10 +11,9 @@
   <meta property="og:title" content="Namaste Soft - Software Development Services" />
   <meta property="og:description" content="Professional software development services including websites, web applications, mobile apps, and AI/ML solutions." />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  <meta property="og:url" content="https://namastesoft.com" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@namaste_soft" />
-  <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
 </svelte:head>
 
 <slot />
